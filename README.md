@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Im *Vlad* and Im **Software Engineer** :wink: <br>
 <!--
 **lTriXsteRl/lTriXsteRl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

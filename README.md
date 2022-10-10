@@ -1,10 +1,9 @@
-<!--
 ### Hi there 👋
 
 Im *Vlad* and Im **Software Engineer** :wink: <br>
 <br>
 
-
+<!--
 ![Github stats](https://github-readme-stats.vercel.app/api?username=lTriXsteRl&show_icons=true&theme=gotham) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lTriXsteRl&theme=gotham&layout=compact)](https://github.com/lTriXsteRl/lTriXsteRl)
 
